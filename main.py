@@ -81,11 +81,8 @@ st.markdown(
     """
     <div style='text-align: center; font-size: 16px;'>
         Created by <b>Dayshaun Kakadiya</b> and <b>Rajan Kushwah</b><br><br>
-
         🔗 <b>Colab Notebook:</b>
-        <a href='https://colab.research.google.com/drive/1FYQYzD9f-MiAecWjWccgzvKEHtd1OlS1?usp=sharing' target='_blank'>Code</a>
-        <br>
-
+        <a href='https://colab.research.google.com/drive/1FYQYzD9f-MiAecWjWccgzvKEHtd1OlS1?usp=sharing' target='_blank'>Code</a><br>
         🔗 <b>LinkedIn:</b>
         <a href='https://www.linkedin.com/in/dayshaun-kakadiya-ba2410321' target='_blank'>Dayshaun</a> |
         <a href='https://www.linkedin.com/in/rajan-kushwah-b4751129a' target='_blank'>Rajan</a><br>
